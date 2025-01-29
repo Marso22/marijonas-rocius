@@ -4,13 +4,21 @@
  <img alt="A Cornish Beach" src="/IMG_20240707_165657424-AUTO_ENHANCE.jpg" width="600px">
 </picture>
 
-# Hi - I'm Joe & I live, love and code in Cornwall, England.
+# Hi - I'm Joe & I live in Cornwall, England.
 
 ## About Me
 
-After a 20 year career in Finance, Data & Analytics, the opportunity arose to switch career path to towards software development in 2024.
+After a 20 year career in Finance & Data & Analytics, having always loved to take any opportunity to write code, the opportunity arose to switch career path to Software Development in 2024.
 
-Supported by Code Institute and Headforwards I'm currently on an intensive journey to turn this opportunity into reality.
+My Career Transition has been supported by Code Institute and Headforwards.
+
+I'm currently on an intensive Full-Stack Developer Bootcamp.
+
+I'm currently learning HTML, CSS and Javascript in order to build responsive web applications.
+
+## My Projects
+
+### Developer Bootcamp Projects
 
 <!--
 **joe-aswonvos/joe-aswonvos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
