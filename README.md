@@ -8,13 +8,11 @@
 
 ## About Me
 
-After a 20 year career in Finance & Data & Analytics, having always loved to take any opportunity to write code, the opportunity arose to switch career path to Software Development in 2024.
+I'm a Junior Full Stack Developer with a passion for technology, problem-solving, and continuous learning. After 20 years in finance and data-driven strategy, I made the exciting transition into software development, enabled by the Code Institute bootcamp and supported by Headforwards.
 
-My Career Transition has been supported by Code Institute and Headforwards.
+I love working with Python, JavaScript, SQL, and Django, building projects that combine data, automation, and web development. Always curious and eager to learn, I thrive on exploring new technologies and creating efficient, scalable solutions.
 
-I'm currently on an intensive Full-Stack Developer Bootcamp.
-
-I'm currently learning HTML, CSS and Javascript in order to build responsive web applications.
+Let’s build something awesome—feel free to connect or check out my latest projects! 🚀
 
 ## My Projects
 
