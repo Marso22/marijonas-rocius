@@ -53,6 +53,7 @@ Let’s build something awesome—feel free to connect or check out my latest pr
 ### Design | Wireframes
 
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+![LucidChart](https://img.shields.io/badge/lucidchart-orange?style=for-the-badge&logo=lucid&logoColor=%23282C33&logoSize=20)
 
 ### Continuous Learing and Professional Development
 
