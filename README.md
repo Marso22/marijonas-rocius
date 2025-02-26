@@ -60,19 +60,31 @@ Let’s build something awesome—feel free to connect or check out my latest pr
 ![Udemy](https://img.shields.io/badge/udemy-white?style=for-the-badge&logo=udemy&logoColor=%23A435F0&logoSize=20)
 ![DataCamp](https://img.shields.io/badge/DataCamp-darkgreen?style=for-the-badge&logo=datacamp&logoColor=%2303EF62&logoSize=20)
 
-### Developer Bootcamp Projects
+## Portfolio Projects
 
-<!--
-**joe-aswonvos/joe-aswonvos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Code Institute / Headforwards Full Stack Developer Bootcamp Projects
+The bootcamp provided plenty of opportunity to code, as the various public repos I've created Dec 2024 to April 2024 will attest.
+I've chosen not to highlight any of the code-along or practice pieces in this list.
 
-Here are some ideas to get you started:
+#### Hackathon 2 (April 2025) - TBC
+Utilising HTML, CSS, JS & Django 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Capstone Individual Project (March 2025) - TBC
+Utilising HTML, CSS, JS & Django
+
+#### Hackathon 1 (January 2025)
+Utilising HTML, CSS & JS - our first hackathon project brought together the front-end skills learned since December 2024 - see readme for more info
+
+<a href="https://github.com/joe-aswonvos/pasty-net" target="_blank">View Repo</a> <br>
+<a href="https://joe-aswonvos.github.io/pasty-net/" target="_blank">Visit Site</a>
+
+<img src="https://github.com/joe-aswonvos/pasty-net/blob/main/assets/readme/image.png" alt="site" width="800">
+
+#### First Individual Project (Decenber 2024)
+Utilising HTML and CSS - the purpose of this project was to produce a static website utilising the languages and frameworks covered at the start of the course - see readme for more info
+
+<a href="https://github.com/joe-aswonvos/ci-bootstrap-individual-project" target="_blank">View Repo</a> <br>
+<a href="https://joe-aswonvos.github.io/ci-bootstrap-individual-project/" target="_blank">Visit Site</a>
+
+<img src="https://github.com/joe-aswonvos/ci-bootstrap-individual-project/blob/main/assets/images/dyr-hero-screenshot.png" alt="site" width="800">
+
