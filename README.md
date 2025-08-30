@@ -52,7 +52,7 @@ Let’s collaborate and build something remarkable - feel free to connect or exp
 ### Continuous Learing and Professional Development
 
 ![Udemy](https://img.shields.io/badge/udemy-white?style=for-the-badge&logo=udemy&logoColor=%23A435F0&logoSize=20)
-![Coursera](https://img.shields.io/badge/Coursera-white?style=for-the-badge&logo=coursera&logoColor=%2303EF62&logoSize=20)
+![Coursera](https://img.shields.io/badge/Coursera-white?style=for-the-badge&logo=coursera&logoColor=blue&logoSize=20)
 
 ## Portfolio Projects
 
