@@ -4,15 +4,15 @@
  <img alt="A Cornish Beach" src="/IMG_20240707_165657424-AUTO_ENHANCE.jpg" width="600px">
 </picture>
 
-## Hi - I'm Joe & I live in Cornwall, England.
+## Hi! I'm Marijonas from Penzance, Cornwall, UK.
 
 ## About Me
 
-I'm a Junior Full Stack Developer with a passion for technology, problem-solving, and continuous learning. After 20 years in finance and data-driven strategy, I made the exciting transition into software development, enabled by the Code Institute bootcamp and supported by Headforwards.
+I'm a Junior Full Stack Developer passionate about technology, problem-solving, and lifelong learning. With a diverse background spanning 15 years in translation/localisation and a decade in data-driven stock market research and investment management, I'm thrilled to transition into AI-augmented software development. This journey is powered by the Code Institute bootcamp and support from Headforwards. Holding a Master's degree in Maths & IT, I began my career as a programmer, and I'm excited to return to my roots, inspired by the dynamic opportunities in AI development.
 
-I love working with Python, JavaScript, SQL, and Django, building projects that combine data, automation, and web development. Always curious and eager to learn, I thrive on exploring new technologies and creating efficient, scalable solutions.
+I enjoy working with Python, JavaScript, HTML, CSS, SQL, and Django, creating projects that integrate data, automation, and web development. This is just the beginning of my journey. I'm always curious and eager to learn, aiming to expand my toolkit as a Full Stack Developer. My background in coding and AI assistance positions me as a fast learner.
 
-Let’s build something awesome—feel free to connect or check out my latest projects! 🚀
+Let’s collaborate and build something remarkable—feel free to connect or explore my latest projects! 🚀
 
 ### Programming Languages
 
