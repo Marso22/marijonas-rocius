@@ -12,7 +12,7 @@ I'm a Junior Full Stack Developer passionate about technology, problem-solving, 
 
 I enjoy working with Python, JavaScript, HTML, CSS, SQL, and Django, creating projects that integrate data, automation, and web development. This is just the beginning of my journey in this field. I'm always curious and eager to learn, aiming to expand my toolkit as a Full Stack Developer. My background in coding and AI assistance positions me as a fast learner.
 
-Let’s collaborate and build something remarkable—feel free to connect or explore my first projects! 🚀
+Let’s collaborate and build something remarkable - feel free to connect or explore my first projects! 🚀
 
 ### Programming Languages
 
