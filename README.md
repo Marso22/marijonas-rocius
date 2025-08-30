@@ -10,9 +10,9 @@
 
 I'm a Junior Full Stack Developer passionate about technology, problem-solving, and lifelong learning. With a diverse background spanning 15 years in translation/localisation and a decade in data-driven stock market research and investment management, I'm thrilled to transition into AI-augmented software development. This journey is powered by the Code Institute bootcamp and support from Headforwards. Holding a Master's degree in Maths & IT, I began my career as a programmer, and I'm excited to return to my roots, inspired by the dynamic opportunities in AI development.
 
-I enjoy working with Python, JavaScript, HTML, CSS, SQL, and Django, creating projects that integrate data, automation, and web development. This is just the beginning of my journey. I'm always curious and eager to learn, aiming to expand my toolkit as a Full Stack Developer. My background in coding and AI assistance positions me as a fast learner.
+I enjoy working with Python, JavaScript, HTML, CSS, SQL, and Django, creating projects that integrate data, automation, and web development. This is just the beginning of my journey in this field. I'm always curious and eager to learn, aiming to expand my toolkit as a Full Stack Developer. My background in coding and AI assistance positions me as a fast learner.
 
-Let’s collaborate and build something remarkable—feel free to connect or explore my latest projects! 🚀
+Let’s collaborate and build something remarkable—feel free to connect or explore my first projects! 🚀
 
 ### Programming Languages
 
