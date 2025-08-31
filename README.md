@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="/IMG_20240707_165657424-AUTO_ENHANCE.jpg">
- <source media="(prefers-color-scheme: light)" srcset="/IMG_20240707_165657424-AUTO_ENHANCE.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="/Penzance1200x816.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="/Penzance1200x816.jpg">
  <img alt="A Cornish Beach" src="/IMG_20240707_165657424-AUTO_ENHANCE.jpg" width="600px">
 </picture>
 
