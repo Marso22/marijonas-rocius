@@ -64,19 +64,14 @@ Utilising HTML, CSS, JS, Bootstrap, Django, Python, Heroku, PostgreSQL, Agile
 <a href="https://github.com/Marso22/mind_board_games_blog" target="_blank">View Repo</a> <br>
 <a href="https://mind-board-game-app-02a4da3cd705.herokuapp.com/" target="_blank">Visit Site</a>
 
-
+![Desktop view](https://github.com/Marso22/mind_board_games_blog/tree/main/static/images/desktop_view.png)
+![Mobile view](https://github.com/Marso22/mind_board_games_blog/tree/main/static/images/mobile_view.png)
 
 #### Hackathon 2 (August 2025)
 Utilising HTML, CSS, JS, Bootstrap, Django, Python, API, Heroku, PostgreSQL, Agile
 
 #### Hackathon 1 (June 2025)
 Utilising HTML, CSS & JS - our first hackathon project brought together the front-end skills learned since May 2025. The team of 4 practiced to work together using repository to exchange their work and put all pieces together.
-
-<a href="https://github.com/joe-aswonvos/pasty-net" target="_blank">View Repo</a> <br>
-<a href="https://joe-aswonvos.github.io/pasty-net/" target="_blank">Visit Site</a>
-
-![Desktop view](static/images/desktop_view.png)
-![Mobile view](static/images/mobile_view.png)
 
 #### First Individual Project (Decenber 2024)
 Utilising HTML and CSS - the purpose of this project was to produce a static website utilising the languages and frameworks covered at the start of the course - see readme for more info
