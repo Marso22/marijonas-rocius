@@ -57,17 +57,16 @@ Let’s collaborate and build something remarkable - feel free to connect or exp
 ## Portfolio Projects
 
 ### Code Institute / Headforwards Full Stack Developer Bootcamp Projects
-The bootcamp provided plenty of opportunity to code, as the various public repos I've created Dec 2024 to April 2024 will attest.
-I've chosen not to highlight any of the code-along or practice pieces in this list.
+The bootcamp provided plenty of opportunity to code, as the various public repos I've created May 2025 to August 2025.
 
-#### Hackathon 2 (April 2025) - TBC
-Utilising HTML, CSS, JS & Django 
+#### Capstone Individual Project (24 July - 12 August 2025)
+Utilising HTML, CSS, JS, Bootstrap, Django, Python, Heroku, PostgreSQL, Agile
 
-#### Capstone Individual Project (March 2025) - TBC
-Utilising HTML, CSS, JS & Django
+#### Hackathon 2 (August 2025)
+Utilising HTML, CSS, JS, Bootstrap, Django, Python, API, Heroku, PostgreSQL, Agile
 
-#### Hackathon 1 (January 2025)
-Utilising HTML, CSS & JS - our first hackathon project brought together the front-end skills learned since December 2024 - see readme for more info
+#### Hackathon 1 (June 2025)
+Utilising HTML, CSS & JS - our first hackathon project brought together the front-end skills learned since May 2025. The team of 4 practiced to work together using repository to exchange their work and put all pieces together.
 
 <a href="https://github.com/joe-aswonvos/pasty-net" target="_blank">View Repo</a> <br>
 <a href="https://joe-aswonvos.github.io/pasty-net/" target="_blank">Visit Site</a>
