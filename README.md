@@ -56,11 +56,15 @@ Let’s collaborate and build something remarkable - feel free to connect or exp
 
 ## Portfolio Projects
 
-### Code Institute / Headforwards Full Stack Developer Bootcamp Projects
-The bootcamp provided plenty of opportunity to code, as the various public repos I've created May 2025 to August 2025.
+### Code Institute AI-Augmented Full Stack Developer Bootcamp Projects
 
 #### Capstone Individual Project (24 July - 12 August 2025)
 Utilising HTML, CSS, JS, Bootstrap, Django, Python, Heroku, PostgreSQL, Agile
+
+<a href="https://github.com/Marso22/mind_board_games_blog" target="_blank">View Repo</a> <br>
+<a href="https://mind-board-game-app-02a4da3cd705.herokuapp.com/" target="_blank">Visit Site</a>
+
+
 
 #### Hackathon 2 (August 2025)
 Utilising HTML, CSS, JS, Bootstrap, Django, Python, API, Heroku, PostgreSQL, Agile
@@ -71,7 +75,8 @@ Utilising HTML, CSS & JS - our first hackathon project brought together the fron
 <a href="https://github.com/joe-aswonvos/pasty-net" target="_blank">View Repo</a> <br>
 <a href="https://joe-aswonvos.github.io/pasty-net/" target="_blank">Visit Site</a>
 
-<img src="https://github.com/joe-aswonvos/pasty-net/blob/main/assets/readme/image.png" alt="site" width="800">
+![Desktop view](static/images/desktop_view.png)
+![Mobile view](static/images/mobile_view.png)
 
 #### First Individual Project (Decenber 2024)
 Utilising HTML and CSS - the purpose of this project was to produce a static website utilising the languages and frameworks covered at the start of the course - see readme for more info
