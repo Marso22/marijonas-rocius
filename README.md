@@ -67,12 +67,15 @@ Utilising HTML, CSS, JS, Bootstrap, Django, Python, Heroku, PostgreSQL, Agile
 ![Desktop view](https://github.com/Marso22/mind_board_games_blog/blob/main/static/images/desktop_view.png)
 ![Mobile view](https://github.com/Marso22/mind_board_games_blog/blob/main/static/images/mobile_view.png)
 
-#### Hackathon 2 (August 2025)
+#### Hackathon 2 (August 2025) - Companion App
 Utilising HTML, CSS, JS, Bootstrap, Django, Python, API, Heroku, PostgreSQL, Agile - our second hackathon project brought together the full stack skills learned since May 2025. We implemented functionality for users to create, read, update, and delete (CRUD) records. For the 2nd time we were a team of 4 and practiced to work together using repository to exchange our work and put all pieces together.
 
+<a href="https://github.com/JamieJB123/hackathon2" target="_blank">View Repo</a> <br>
+<a href="https://hackathon2-helper-182de8322106.herokuapp.com/" target="_blank">Visit Companion App Site</a>
 
+![Responsive view](https://github.com/JamieJB123/hackathon2/blob/main/static/images/website-mockup.png)
 
-#### Hackathon 1 (June 2025)
+#### Hackathon 1 (June 2025) - Hack-a-Game
 Utilising HTML, CSS & JS - our first hackathon project brought together the front-end skills learned since May 2025. The team of 4 practiced to work together using repository to exchange their work and put all pieces together.
 
 <a href="https://github.com/SandyWyper/Hack-a-Game/blob/main/README.md" target="_blank">View Repo</a> <br>
@@ -80,7 +83,7 @@ Utilising HTML, CSS & JS - our first hackathon project brought together the fron
 
 ![Responsive view](https://github.com/Marso22/marijonas-rocius/blob/main/responsive.png)
 
-#### First Individual Project (Decenber 2024)
+#### First Individual Project (June 2025)
 Utilising HTML and CSS - the purpose of this project was to produce a static website utilising the languages and frameworks covered at the start of the course - see readme for more info
 
 <a href="https://github.com/joe-aswonvos/ci-bootstrap-individual-project" target="_blank">View Repo</a> <br>
