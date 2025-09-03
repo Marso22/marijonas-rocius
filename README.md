@@ -70,6 +70,11 @@ Utilising HTML, CSS, JS, Bootstrap, Django, Python, Heroku, PostgreSQL, Agile
 #### Hackathon 2 (August 2025)
 Utilising HTML, CSS, JS, Bootstrap, Django, Python, API, Heroku, PostgreSQL, Agile
 
+<a href="https://github.com/SandyWyper/Hack-a-Game/blob/main/README.md" target="_blank">View Repo</a> <br>
+<a href="https://sandywyper.github.io/Hack-a-Game/" target="_blank">Visit Site</a>
+
+https://github.com/SandyWyper/Hack-a-Game/blob/main/assets/images/responsive.png
+
 #### Hackathon 1 (June 2025)
 Utilising HTML, CSS & JS - our first hackathon project brought together the front-end skills learned since May 2025. The team of 4 practiced to work together using repository to exchange their work and put all pieces together.
 
