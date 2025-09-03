@@ -84,7 +84,7 @@ Utilising HTML, CSS & JS - our first hackathon project brought together the fron
 ![Responsive view](https://github.com/Marso22/marijonas-rocius/blob/main/responsive.png)
 
 #### First Individual Project (June 2025)
-Utilising HTML and CSS - the purpose of this project was to produce a static website utilising the languages and frameworks covered at the start of the course - see readme for more info
+Utilising HTML, CSS & JS - the purpose of this project was to produce a static website utilising the languages and frameworks covered at the start of the course.
 
 <a href="https://github.com/joe-aswonvos/ci-bootstrap-individual-project" target="_blank">View Repo</a> <br>
 <a href="https://joe-aswonvos.github.io/ci-bootstrap-individual-project/" target="_blank">Visit Site</a>
