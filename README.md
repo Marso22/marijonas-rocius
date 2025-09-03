@@ -76,7 +76,7 @@ Utilising HTML, CSS, JS, Bootstrap, Django, Python, API, Heroku, PostgreSQL, Agi
 ![Responsive view](https://github.com/JamieJB123/hackathon2/blob/main/static/images/website-mockup.png)
 
 #### Hackathon 1 (June 2025) - Hack-a-Game
-Utilising HTML, CSS & JS - our first hackathon project brought together the front-end skills learned since May 2025. The team of 4 practiced to work together using repository to exchange their work and put all pieces together.
+Utilising HTML, CSS, JS, Bootstrap - our first hackathon project brought together the front-end skills learned since May 2025. The team of 4 practiced to work together using repository to exchange their work and put all pieces together.
 
 <a href="https://github.com/SandyWyper/Hack-a-Game/blob/main/README.md" target="_blank">View Repo</a> <br>
 <a href="https://sandywyper.github.io/Hack-a-Game/" target="_blank">Visit Site</a>
@@ -84,10 +84,10 @@ Utilising HTML, CSS & JS - our first hackathon project brought together the fron
 ![Responsive view](https://github.com/Marso22/marijonas-rocius/blob/main/responsive.png)
 
 #### First Individual Project (June 2025)
-Utilising HTML, CSS & JS - the purpose of this project was to produce a static website utilising the languages and frameworks covered at the start of the course.
+Utilising HTML, CSS, JS, Bootstrap - the purpose of this project was to produce a static website utilising the languages and frameworks covered at the start of the course.
 
-<a href="https://github.com/joe-aswonvos/ci-bootstrap-individual-project" target="_blank">View Repo</a> <br>
-<a href="https://joe-aswonvos.github.io/ci-bootstrap-individual-project/" target="_blank">Visit Site</a>
+<a href="https://github.com/Marso22/healthy-living-mental-health" target="_blank">View Repo</a> <br>
+<a href="https://marso22.github.io/healthy-living-mental-health/#" target="_blank">Visit Site</a>
 
-<img src="https://github.com/joe-aswonvos/ci-bootstrap-individual-project/blob/main/assets/images/dyr-hero-screenshot.png" alt="site" width="800">
+![Responsive view](https://github.com/Marso22/marijonas-rocius/blob/main/Healthy-living-response.jpg)
 
