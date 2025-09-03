@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="/PenzanceJubPool1900x994.jpg">
  <source media="(prefers-color-scheme: light)" srcset="/PenzanceJubPool1900x994.jpg">
- <img alt="A Cornish Beach" src="/IMG_20240707_165657424-AUTO_ENHANCE.jpg" width="800px">
+ <img alt="Penzance" src="/IMG_20240707_165657424-AUTO_ENHANCE.jpg" width="800px">
 </picture>
 
 ## Hi! I'm Marijonas from Penzance, Cornwall, UK.
