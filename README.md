@@ -68,7 +68,8 @@ Utilising HTML, CSS, JS, Bootstrap, Django, Python, Heroku, PostgreSQL, Agile
 ![Mobile view](https://github.com/Marso22/mind_board_games_blog/blob/main/static/images/mobile_view.png)
 
 #### Hackathon 2 (August 2025)
-Utilising HTML, CSS, JS, Bootstrap, Django, Python, API, Heroku, PostgreSQL, Agile - our second hackathon project brought together the full stack skills learned since May 2025. It included CRUD (create, read, update, and delete) functionality.
+Utilising HTML, CSS, JS, Bootstrap, Django, Python, API, Heroku, PostgreSQL, Agile - our second hackathon project brought together the full stack skills learned since May 2025. We implemented functionality for users to create, read, update, and delete (CRUD) records. For the 2nd time we were a team of 4 and practiced to work together using repository to exchange our work and put all pieces together.
+
 
 
 #### Hackathon 1 (June 2025)
